@@ -1,0 +1,6 @@
+middleware:- redux logger
+provides a thirdparty extension point between dispatching an action and the moment it reaches the reducer
+used middleware for logging,crash reporting,performing asynchorouns tasks etc.
+
+redux-thunk:-
+define async action creators. middleware library
